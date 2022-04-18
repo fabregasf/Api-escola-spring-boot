@@ -1,0 +1,6 @@
+{"_id":"dc65172d-e8e1-4621-ad51-e1b438a3ca33","nome":"fabricio","idade":28,"email":"fabrici@gmail.com","disciplinanome":["Matemática","Portugues"],"periodo":0,"_class":"com.fabricio.escola.models.ProfessorModel"}
+{"_id":"32c5d827-595b-403c-bbd5-c7dedb192777","nome":"fabricio","idade":28,"email":"fabrici@gmail.com","disciplinanome":["Matemática","Portugues"],"periodo":0,"_class":"com.fabricio.escola.models.ProfessorModel"}
+{"_id":"3a94dfe3-8dbb-4f7c-b32d-8a15068e872c","nome":"fabricio","idade":28,"email":"fabrici@gmail.com","disciplinanome":["Matemática","Portugues"],"periodo":0,"_class":"com.fabricio.escola.models.ProfessorModel"}
+{"_id":"bfb7f492-b659-4ccd-baaa-1e604ef1695b","nome":"Eduardo","idade":32,"email":"eduardo@iftm.edu.br","disciplinanome":["fisica"],"periodo":0,"_class":"com.fabricio.escola.models.ProfessorModel"}
+{"_id":"62bacc2a-b74e-4286-bc9a-e5c741205f37","nome":"gustavo","idade":14,"email":"gustavo.silva@email.com","disciplinanome":["geografia","historia"],"periodo":0,"_class":"com.fabricio.escola.models.ProfessorModel"}
+{"_id":"55b5ae0c-2b67-4496-a188-64536b24b86b","nome":"thiago","idade":14,"email":"thiago.silva@email.com","disciplinanome":["sociologia"],"periodo":0,"_class":"com.fabricio.escola.models.ProfessorModel"}

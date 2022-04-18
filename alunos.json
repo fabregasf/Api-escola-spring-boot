@@ -1,0 +1,3 @@
+{"_id":"a9782ad0-58d2-426b-9c23-efb2424d536c","nome":"fabricio","idade":28,"email":"fabricio@fabricinho.com","disciplinanome":["cotuba","kuat"],"periodo":3,"_class":"com.fabricio.escola.models.AlunoModel"}
+{"_id":"0fe4e62d-6ec3-491a-990c-9a851c600cad","nome":"lucas","idade":17,"email":"lucas@lucas.com","disciplinanome":["cotuba","kuat","coca cola","pepsi"],"periodo":1,"_class":"com.fabricio.escola.models.AlunoModel"}
+{"_id":"d11d46e4-b168-4a34-812a-a16c69c4a2df","nome":"gugu","idade":13,"email":"gugu@gugu.com","disciplinanome":["cotuba","kuat","coca cola","pepsi","call of duty","dance monkey"],"periodo":3,"_class":"com.fabricio.escola.models.AlunoModel"}
