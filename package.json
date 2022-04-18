@@ -1,0 +1,21 @@
+{
+  "name": "escolar",
+  "version": "1.0.0",
+  "description": "BackEnd e FrontEnd escolar",
+  "dependencies": {
+  },
+  "keywords": [
+    "rest",
+    "hateoas",
+    "spring",
+    "data",
+    "react"
+  ],
+  "author": "Fabrício Lisboa Franco",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "rest": "^1.3.1"
+  }
+
+}
